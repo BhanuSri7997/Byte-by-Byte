@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0118-pascals-triangle) |
 ## Hash Table
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,5 +61,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->

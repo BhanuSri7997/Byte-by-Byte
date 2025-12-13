@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0229-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0229-majority-element-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -105,4 +108,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->

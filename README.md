@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0062-unique-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0229-majority-element-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

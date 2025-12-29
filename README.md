@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0229-majority-element-ii) |
+| [0756-pyramid-transition-matrix](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0756-pyramid-transition-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0014-longest-common-prefix) |
+| [0756-pyramid-transition-matrix](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0287-find-the-duplicate-number) |
+| [0756-pyramid-transition-matrix](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0756-pyramid-transition-matrix) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0898-bitwise-ors-of-subarrays) |
 ## Recursion
 |  |
@@ -205,4 +208,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0037-sudoku-solver) |
+| [0756-pyramid-transition-matrix](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0756-pyramid-transition-matrix) |
 <!---LeetCode Topics End-->

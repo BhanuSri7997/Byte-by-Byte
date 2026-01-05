@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1390-four-divisors) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1975-maximum-matrix-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2402-meeting-rooms-iii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3074-apple-redistribution-into-boxes) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0011-container-with-most-water) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1975-maximum-matrix-sum](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1975-maximum-matrix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3075-maximize-happiness-of-selected-children) |
 ## String
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1975-maximum-matrix-sum) |
 ## Dynamic Programming
 |  |
 | ------- |

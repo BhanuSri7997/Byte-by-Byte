@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0062-unique-paths) |
+| [0085-maximal-rectangle](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -265,4 +268,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->

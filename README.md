@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1200-minimum-absolute-difference](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0229-majority-element-ii) |
+| [1200-minimum-absolute-difference](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2054-two-best-non-overlapping-events) |

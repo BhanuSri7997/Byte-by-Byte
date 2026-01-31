@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0493-reverse-pairs) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0840-magic-squares-in-grid](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0840-magic-squares-in-grid) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0944-delete-columns-to-make-sorted](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0944-delete-columns-to-make-sorted) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0493-reverse-pairs) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1970-last-day-where-you-can-still-cross) |

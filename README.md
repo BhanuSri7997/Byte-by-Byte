@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0067-add-binary) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0944-delete-columns-to-make-sorted) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0067-add-binary) |
 | [0840-magic-squares-in-grid](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0840-magic-squares-in-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1390-four-divisors) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0287-find-the-duplicate-number) |
 | [0756-pyramid-transition-matrix](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0756-pyramid-transition-matrix) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0898-bitwise-ors-of-subarrays) |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0067-add-binary) |
 | [2402-meeting-rooms-iii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2402-meeting-rooms-iii) |
 | [3379-transformed-array](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3507-minimum-pair-removal-to-sort-array-i) |

@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0287-find-the-duplicate-number) |
+| [0401-binary-watch](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0756-pyramid-transition-matrix) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0898-bitwise-ors-of-subarrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0039-combination-sum) |
+| [0401-binary-watch](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0756-pyramid-transition-matrix) |
 ## Simulation
 |  |

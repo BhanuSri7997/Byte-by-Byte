@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0287-find-the-duplicate-number) |
+| [0696-count-binary-substrings](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Greedy
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0067-add-binary) |
+| [0696-count-binary-substrings](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0944-delete-columns-to-make-sorted) |

@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0190-reverse-bits) |
 | [0493-reverse-pairs](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0493-reverse-pairs) |
+| [0761-special-binary-string](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3721-longest-balanced-subarray-ii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0761-special-binary-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0229-majority-element-ii) |
+| [0761-special-binary-string](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |

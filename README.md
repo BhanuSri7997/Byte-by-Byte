@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0231-power-of-two) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0840-magic-squares-in-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1266-minimum-time-visiting-all-points) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0693-binary-number-with-alternating-bits) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0231-power-of-two) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Counting
 |  |

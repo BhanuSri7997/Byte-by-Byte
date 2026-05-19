@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2402-meeting-rooms-iii) |
+| [2540-minimum-common-value](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2784-check-if-array-is-good) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1980-find-unique-binary-string) |
 | [2402-meeting-rooms-iii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2402-meeting-rooms-iii) |
+| [2540-minimum-common-value](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2784-check-if-array-is-good) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2054-two-best-non-overlapping-events) |
+| [2540-minimum-common-value](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2540-minimum-common-value) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3454-separate-squares-ii) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0287-find-the-duplicate-number) |
 | [0696-count-binary-substrings](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2540-minimum-common-value](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2540-minimum-common-value) |
 ## Greedy
 |  |
 | ------- |

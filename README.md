@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3713-longest-balanced-substring-i) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3714-longest-balanced-substring-ii) |

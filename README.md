@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3093-longest-common-suffix-queries](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2054-two-best-non-overlapping-events) |
 | [2540-minimum-common-value](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2540-minimum-common-value) |
+| [3161-block-placement-queries](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3454-separate-squares-ii) |
@@ -380,10 +382,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0493-reverse-pairs) |
+| [3161-block-placement-queries](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3161-block-placement-queries) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0493-reverse-pairs) |
+| [3161-block-placement-queries](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3161-block-placement-queries) |
 | [3454-separate-squares-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3721-longest-balanced-subarray-ii) |

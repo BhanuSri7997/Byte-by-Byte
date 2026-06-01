@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2054-two-best-non-overlapping-events) |
 | [2126-destroying-asteroids](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2402-meeting-rooms-iii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2402-meeting-rooms-iii) |
 | [2540-minimum-common-value](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2553-separate-the-digits-in-an-array) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1975-maximum-matrix-sum) |
 | [2126-destroying-asteroids](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3074-apple-redistribution-into-boxes](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2054-two-best-non-overlapping-events) |
 | [2126-destroying-asteroids](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2402-meeting-rooms-iii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2402-meeting-rooms-iii) |
 | [2784-check-if-array-is-good](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2784-check-if-array-is-good) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2943-maximize-area-of-square-hole-in-grid) |

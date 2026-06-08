@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2054-two-best-non-overlapping-events) |
 | [2126-destroying-asteroids](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2402-meeting-rooms-iii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2402-meeting-rooms-iii) |
 | [2540-minimum-common-value](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2540-minimum-common-value) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0287-find-the-duplicate-number) |
 | [0696-count-binary-substrings](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1914-cyclically-rotating-a-grid](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1914-cyclically-rotating-a-grid) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2402-meeting-rooms-iii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2402-meeting-rooms-iii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2553-separate-the-digits-in-an-array) |
 | [3379-transformed-array](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3379-transformed-array) |

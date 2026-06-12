@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-separate-squares-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3640-trionic-array-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -514,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1382-balance-a-binary-search-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -534,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
 |  |
 | ------- |

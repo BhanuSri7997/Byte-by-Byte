@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1840-maximum-building-height) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1833-maximum-ice-cream-bars](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1975-maximum-matrix-sum) |
 | [2126-destroying-asteroids](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2126-destroying-asteroids) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1833-maximum-ice-cream-bars](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1840-maximum-building-height) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -632,4 +635,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->

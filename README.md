@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3640-trionic-array-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Math
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2574-left-and-right-sum-differences) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3721-longest-balanced-subarray-ii) |

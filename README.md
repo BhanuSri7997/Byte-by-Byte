@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1345-jump-game-iv) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1980-find-unique-binary-string) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1189-maximum-number-of-balloons](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |

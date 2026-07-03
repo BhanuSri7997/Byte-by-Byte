@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3620-network-recovery-pathways](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3454-separate-squares-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3620-network-recovery-pathways](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Divide and Conquer
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3620-network-recovery-pathways](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3620-network-recovery-pathways) |
 | [3640-trionic-array-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -517,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3620-network-recovery-pathways](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Prefix Sum
@@ -648,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3620-network-recovery-pathways](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
@@ -655,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Binary Search Tree
 |  |
@@ -682,4 +688,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1833-maximum-ice-cream-bars) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->

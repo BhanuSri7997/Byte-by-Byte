@@ -578,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1382-balance-a-binary-search-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1345-jump-game-iv) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -677,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3666-minimum-operations-to-equalize-binary-string) |

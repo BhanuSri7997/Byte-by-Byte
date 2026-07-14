@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0412-fizz-buzz) |
 | [0696-count-binary-substrings](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0756-pyramid-transition-matrix) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0412-fizz-buzz) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0840-magic-squares-in-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1266-minimum-time-visiting-all-points) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0412-fizz-buzz) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1680-concatenation-of-consecutive-binary-numbers) |

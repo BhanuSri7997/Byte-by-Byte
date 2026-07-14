@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3379-transformed-array](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3454-separate-squares-ii) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3620-network-recovery-pathways) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -726,4 +729,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3620-network-recovery-pathways) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->

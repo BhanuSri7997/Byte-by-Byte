@@ -429,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2235-add-two-integers](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2235-add-two-integers) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |

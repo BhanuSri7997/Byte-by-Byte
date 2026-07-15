@@ -5,7 +5,8 @@ class Solution {
         }
         boolean isPrime[] = new boolean[n];
         Arrays.fill(isPrime,true);
-        for(int i=2;i*i<=n;i++){
+        int sqrtn=(int)Math.sqrt(n);
+        for(int i=2;i<=sqrtn;i++){
             if(isPrime[i]){
                 for(int j=i*i;j<n;j+=i)
                     isPrime[j]=false;

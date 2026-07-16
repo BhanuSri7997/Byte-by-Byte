@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0229-majority-element-ii) |
 | [0756-pyramid-transition-matrix](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0840-magic-squares-in-grid) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0287-find-the-duplicate-number) |
 | [0696-count-binary-substrings](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0412-fizz-buzz) |

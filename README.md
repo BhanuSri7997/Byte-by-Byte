@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0412-fizz-buzz) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0840-magic-squares-in-grid) |

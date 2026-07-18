@@ -429,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0412-fizz-buzz) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0840-magic-squares-in-grid) |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0412-fizz-buzz) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -769,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |

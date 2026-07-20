@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1389-create-target-array-in-the-given-order) |
 | [1390-four-divisors](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1512-number-of-good-pairs](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1512-number-of-good-pairs) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1512-number-of-good-pairs](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1512-number-of-good-pairs) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1390-four-divisors) |
 | [1486-xor-operation-in-an-array](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1486-xor-operation-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1840-maximum-building-height) |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1512-number-of-good-pairs](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1512-number-of-good-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3312-sorted-gcd-pair-queries) |
 | [3713-longest-balanced-substring-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3713-longest-balanced-substring-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/3737-count-subarrays-with-majority-element-i) |

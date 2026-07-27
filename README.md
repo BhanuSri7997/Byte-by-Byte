@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0493-reverse-pairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0840-magic-squares-in-grid](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0840-magic-squares-in-grid) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0898-bitwise-ors-of-subarrays) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0229-majority-element-ii) |
+| [0645-set-mismatch](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0645-set-mismatch) |
 | [0756-pyramid-transition-matrix](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0645-set-mismatch) |
 | [0761-special-binary-string](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1288-remove-covered-intervals) |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0401-binary-watch) |
+| [0645-set-mismatch](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |

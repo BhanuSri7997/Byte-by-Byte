@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0493-reverse-pairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0840-magic-squares-in-grid](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0840-magic-squares-in-grid) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |

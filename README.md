@@ -659,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0039-combination-sum) |
+| [0077-combinations](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0077-combinations) |
 | [0401-binary-watch](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/0756-pyramid-transition-matrix) |
 | [1980-find-unique-binary-string](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1980-find-unique-binary-string) |

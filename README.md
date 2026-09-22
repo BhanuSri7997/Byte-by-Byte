@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1389-create-target-array-in-the-given-order) |
 | [1390-four-divisors](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1390-four-divisors) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/BhanuSri7997/Byte-by-Byte/tree/master/1480-running-sum-of-1d-array) |
